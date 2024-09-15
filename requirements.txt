@@ -1,0 +1,9 @@
+json
+matplotlib
+networkx
+nltk
+numpy
+pandas
+scipy
+sklearn
+textblob
